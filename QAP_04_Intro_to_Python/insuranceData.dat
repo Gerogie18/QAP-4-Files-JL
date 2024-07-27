@@ -1,0 +1,35 @@
+PK_ClaimNumber, Date_Claim, cust_firstname, cust_lastname, cust_streetaddress, cust_city, cust_provinceabv, cust_postal_code, cust_phone_number, insurance_num_of_cars_insured, insurance_optional_insurance, insurance_optional_glass_coverage, insurance_option_loaner_car_coverage, insurance_payment_type, insurance_downpayment_amount, insurance_total_notax
+1945, 2024-07-26, Wendy, Baker, 12 Main St, Tors Cove, NL, A1A1A1, 709-222-3333, 1, True, True, True, MONTHLY, 300.0, 1143.0
+1946, 2024-07-27, John, Smith, 34 Elm St, St. John's, NL, A1A2B2, 709-333-4444, 2, True, False, True, MONTHLY, 500.0, 2345.0
+1947, 2024-07-28, Alice, Johnson, 56 Maple St, Corner Brook, NL, A2A3C3, 709-444-5555, 1, False, True, False, MONTHLY, 200.0, 1234.0
+1948, 2024-07-29, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 3, True, True, False, MONTHLY, 400.0, 3456.0
+1949, 2024-07-30, Carol, Green, 90 Pine St, Mount Pearl, NL, A4A5E5, 709-666-7777, 1, False, False, True, MONTHLY, 150.0, 999.0
+1950, 2024-07-31, Wendy, Baker, 12 Main St, Tors Cove, NL, A1A1A1, 709-222-3333, 2, True, True, True, MONTHLY, 300.0, 1789.0
+1951, 2024-08-01, John, Smith, 34 Elm St, St. John's, NL, A1A2B2, 709-333-4444, 1, False, True, False, MONTHLY, 100.0, 789.0
+1952, 2024-08-02, Alice, Johnson, 56 Maple St, Corner Brook, NL, A2A3C3, 709-444-5555, 3, True, True, True, MONTHLY, 600.0, 4567.0
+1953, 2024-08-03, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 1, False, False, True, MONTHLY, 250.0, 1123.0
+1954, 2024-08-04, Carol, Green, 90 Pine St, Mount Pearl, NL, A4A5E5, 709-666-7777, 2, True, True, False, MONTHLY, 400.0, 2340.0
+1955, 2024-08-05, Wendy, Baker, 12 Main St, Tors Cove, NL, A1A1A1, 709-222-3333, 1, False, True, True, MONTHLY, 350.0, 1450.0
+1956, 2024-08-06, John, Smith, 34 Elm St, St. John's, NL, A1A2B2, 709-333-4444, 3, True, False, False, MONTHLY, 300.0, 2987.0
+1957, 2024-08-07, Alice, Johnson, 56 Maple St, Corner Brook, NL, A2A3C3, 709-444-5555, 1, False, True, True, MONTHLY, 200.0, 1345.0
+1958, 2024-08-08, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 2, True, True, False, FULL, 0.0, 1789.0
+1959, 2024-08-09, Carol, Green, 90 Pine St, Mount Pearl, NL, A4A5E5, 709-666-7777, 1, False, True, False, MONTHLY, 150.0, 1120.0
+1960, 2024-08-10, Wendy, Baker, 12 Main St, Tors Cove, NL, A1A1A1, 709-222-3333, 3, True, True, True, FULL, 0.0, 3450.0
+1961, 2024-08-11, John, Smith, 34 Elm St, St. John's, NL, A1A2B2, 709-333-4444, 1, False, True, False, MONTHLY, 200.0, 1450.0
+1962, 2024-08-12, Alice, Johnson, 56 Maple St, Corner Brook, NL, A2A3C3, 709-444-5555, 2, True, False, True, MONTHLY, 300.0, 2345.0
+1963, 2024-08-13, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 1, False, True, True, MONTHLY, 250.0, 1678.0
+1964, 2024-08-14, Carol, Green, 90 Pine St, Mount Pearl, NL, A4A5E5, 709-666-7777, 3, True, True, False, MONTHLY, 500.0, 3456.0
+1965, 2024-08-15, Wendy, Baker, 12 Main St, Tors Cove, NL, A1A1A1, 709-222-3333, 2, False, True, True, MONTHLY, 300.0, 1789.0
+1966, 2024-08-16, John, Smith, 34 Elm St, St. John's, NL, A1A2B2, 709-333-4444, 1, True, False, False, MONTHLY, 200.0, 1450.0
+1967, 2024-08-17, Alice, Johnson, 56 Maple St, Corner Brook, NL, A2A3C3, 709-444-5555, 3, False, True, True, MONTHLY, 400.0, 3456.0
+1968, 2024-08-18, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 1, True, True, False, MONTHLY, 300.0, 2345.0
+1969, 2024-08-19, Carol, Green, 90 Pine St, Mount Pearl, NL, A4A5E5, 709-666-7777, 2, False, True, True, MONTHLY, 250.0, 1450.0
+1970, 2024-08-20, Wendy, Baker, 12 Main St, Tors Cove, NL, A1A1A1, 709-222-3333, 1, True, False, True, MONTHLY, 150.0, 1234.0
+1971, 2024-08-21, John, Smith, 34 Elm St, St. John's, NL, A1A2B2, 709-333-4444, 3, False, True, False, MONTHLY, 300.0, 1789.0
+1972, 2024-08-22, Alice, Johnson, 56 Maple St, Corner Brook, NL, A2A3C3, 709-444-5555, 2, True, True, True, MONTHLY, 400.0, 2987.0
+1973, 2024-08-23, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 1, False, True, True, MONTHLY, 200.0, 1678.0
+1974, 2024-08-24, Carol, Green, 90 Pine St, Mount Pearl, NL, A4A5E5, 709-666-7777, 3, True, True, False, FULL, 0.0, 2987.01946.0
+1975, 2024-07-26, Bob, White, 78 Oak St, Gander, NL, A3A4D4, 709-555-6666, 2, False, False, False, FULL, 0.0, 1086.25
+1976, 2024-07-26, Wendy, Baker, 12 Main St, Riverveiw, NL, A1A 1A1, 709-222-9999, 1, False, False, False, MONTHLY, 200.0, 869.0
+1977, 2024-07-26, Wendy, Baker, 33 Cashin Ave, St John'S, NL, A1A 1A1, 709-222-3333, 1, False, True, True, FULL, 0.0, 1013.0
+1978, 2024-07-26, Wendy, Baker, 33 Riley St, Logy Bay, NL, A1A 1A1, 709-222-3333, 1, True, True, True, FULL, 0.0, 1143.0

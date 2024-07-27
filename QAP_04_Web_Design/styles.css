@@ -1,0 +1,49 @@
+
+
+@font-face {
+    font-family: 'Vast Shadow';
+    src: url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap'); /* Replace with the actual font file path */
+}
+.vast-shadow-regular {
+    font-family: "Vast Shadow", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body {
+    height: 100vh; /* full height of the viewport */
+    width: 100vw; /* full width of the viewport */
+    max-height: 1080px; /* maximum height */
+    max-width: 1920px; /* maximum width */
+    min-height: 768px; /* minimum height */
+    min-width: 1366px; /* minimum width */
+    display: flex;
+    background-color: #deb2b4;
+    
+
+    color: #DFE0E1;
+
+}
+
+aside {
+    align-items: left;
+}
+
+
+
+.maincontent {
+    align-items: center;
+    
+    z-index: 1; /* Add this line */
+}
+
+.info {
+    background-color: #4E889E;
+    border-radius: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding: 30px;
+    height: fit-content;
+    width: 800px;
+    font-family: 'Vast Shadow', sans-serif;
+}
